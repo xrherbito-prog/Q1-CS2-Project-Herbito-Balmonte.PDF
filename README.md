@@ -1,17 +1,30 @@
 Project Title: Task Roulette
+
 Project Description
+
 This project aims to help indecisive people to decide on which chore/schoolwork they should do first
 
 Features
-Enter task name
-Enter due date/time of the task
-Oraganizes the tasks under a specific category
-Shuffles the tasks
-Marks the task green when done
+
+•Enter task name
+
+•Enter due date/time of the task
+
+•Oraganizes the tasks under a specific category
+
+•Shuffles the tasks
+
+•Marks the task green when done
+
 How to Run the Program
-Open the Prpoect File
-Run the program by pressing F5 or clicking 'Run'
-Follow the on-screen instructions to enter task names and dates
+
+1. Open the Prpoect File
+   
+2. Run the program by pressing F5 or clicking 'Run'
+
+3. Follow the on-screen instructions to enter task names and dates
+
+   
 ##Example Output
 
 Categories
@@ -34,5 +47,6 @@ Categories
 Progress
 Exit Enter Number:
 Contributors
+
 Student 1: Xyina Rizaan G. Herbito (Did the Features part and Thoughtb of the title)
 Student 2: Angel N. Balmonte (Did the How to run the program and project description parts)      
